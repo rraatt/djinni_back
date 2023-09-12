@@ -19,8 +19,6 @@ vacancies for all seekers.
     <img height="15" width="15" src="./images/postgresql.png"></img> PostgreSQL
 </div><div style="display:flex; align-items: center; gap:10px">
     <img height="15" style="border-radius: 50%" width="15" src="./images/git.png"></img> Git
-</div></div><div style="display:flex; align-items: center; gap:10px">
-    <img height="15" width="15" src="./images/postman.248x256.png"></img> Postman
 </div>
 
 ### 🧷Installation:
